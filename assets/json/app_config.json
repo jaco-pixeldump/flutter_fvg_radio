@@ -1,0 +1,37 @@
+{
+  "appConfig": {
+    "version": "2019.05.25.1600",
+    "stations": [
+      {
+        "label": "RAI radio tre",
+        "url": "http://icestreaming.rai.it/3.mp3",
+        "backgroundPath": "assets/imgs/rai_radio_tre.jpg"
+      },
+      {
+        "label": "RAI FD V Auditorium",
+        "url": "http://icestreaming.rai.it/5.mp3",
+        "backgroundPath": "assets/imgs/rai_fd_classica.png"
+      },
+      {
+        "label": "Radio Svizzera Classica",
+        "url": "http://stream.srg-ssr.ch/m/rsc_it/mp3_128",
+        "backgroundPath": "assets/imgs/rsc-web.png"
+      },
+      {
+        "label": "R 101",
+        "url": "http://icecast.unitedradio.it/r101",
+        "backgroundPath": "assets/imgs/r_101.jpg"
+      },
+      {
+        "label": "Virgin Radio",
+        "url": "http://icecast.unitedradio.it/Virgin.mp3",
+        "backgroundPath": "assets/imgs/virgin_radio.png"
+      },
+      {
+        "label": "Dee Jay",
+        "url": "http://radiodeejay-lh.akamaihd.net/i/RadioDeejay_Live_1@189857/master.m3u8",
+        "backgroundPath": "assets/imgs/radio_dj.jpg"
+      }
+    ]
+  }
+}
